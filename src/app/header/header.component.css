@@ -1,0 +1,12 @@
+.header{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    padding:2%;
+    background-color: whitesmoke;
+}
+
+.buttons{
+
+   
+}
